@@ -1,2 +1,2 @@
-# Janela usando WinApi32
-Uma janela simples usando winapi32. 😎
+## janela usando winapi 📝
+Janela simples (até de mais) usando WinApi.
